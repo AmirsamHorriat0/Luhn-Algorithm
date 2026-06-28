@@ -8,15 +8,15 @@ cargo build --release
 
 ## Usage
 
-**Luhn validation:**
 ```bash
 cargo run 4111111111111111
 ```
 
 ## Example output 
-` ----> Luhn Algorithm <----
+```bash 
+----> Luhn Algorithm <----
 
            result: 
 
 [+] Card number 4111111111111111 is valid
-[+] Luhn Algorithm result : 0 `
+[+] Luhn Algorithm result : 0 ```
