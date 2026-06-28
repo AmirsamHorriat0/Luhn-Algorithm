@@ -21,3 +21,4 @@ cargo run 4111111111111111
 [+] Card number 4111111111111111 is valid
 [+] Luhn Algorithm result : 0
 ```
+future changes : bitmap analysis 
