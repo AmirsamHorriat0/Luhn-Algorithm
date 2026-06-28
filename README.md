@@ -19,4 +19,5 @@ cargo run 4111111111111111
            result: 
 
 [+] Card number 4111111111111111 is valid
-[+] Luhn Algorithm result : 0 ```
+[+] Luhn Algorithm result : 0
+```
